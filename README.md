@@ -2,8 +2,7 @@
 
 <h2> I'm Peter! </h2>
 
-<p><em>Software Engineer mostly focus on Front-end and work as a freelancer.
-</a> One of the Hasin Holding companies at <a href="https://hasin.ir/"> Hasin Group</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="gif-developer" width="30"> 
+<p><em>Software Engineer mostly focus on Front-end and work as a freelancer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="gif-developer" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AceronPeter?label=Follow)](https://twitter.com/intent/follow?screen_name=AceronPeter)
